@@ -2,7 +2,7 @@ header {
     width: 1440px;
     margin: 0 auto;
     padding: 38px 130px;
-   }
+}
 
 .header_logo {
     vertical-align: middle;
@@ -10,12 +10,13 @@ header {
 }
 
 nav {
-    display: inline-block;vertical-align: middle
+    display: inline-block;
+    vertical-align: middle
 }
 
 li {
     display: inline-block;
-    font-size: 20px;  
+    font-size: 20px;
 }
 
 .post {
@@ -30,3 +31,36 @@ li {
     padding: 8px 19px;
 }
 
+.section_1 {
+    width: 1440px;
+    padding: 80px 130px;
+    background-color: #C2F3EE;
+}
+
+.section_1_text {
+    display: inline-block;
+    width: 480px;
+    height: 560px;
+    vertical-align: top;
+    margin-left: 96px;
+}
+
+.section_text_head {
+    margin-bottom: 33px;
+    font-size: 32px;
+    font-weight: 500;
+}
+
+.section_1_maintext {
+    font-size: 18px;
+    font-style: italic;
+    margin-bottom: 81px;
+}
+
+.section_1_buttom {
+    background: #2A9D8F;
+    color: white;
+    border: none;
+    padding: 8px 27px;
+    
+}
