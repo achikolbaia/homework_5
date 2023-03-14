@@ -1,0 +1,32 @@
+header {
+    width: 1440px;
+    margin: 0 auto;
+    padding: 38px 130px;
+   }
+
+.header_logo {
+    vertical-align: middle;
+    margin-right: 280px;
+}
+
+nav {
+    display: inline-block;vertical-align: middle
+}
+
+li {
+    display: inline-block;
+    font-size: 20px;  
+}
+
+.post {
+    margin: 0 47px;
+}
+
+.headerbuttom {
+    background: #2A9D8F;
+    color: white;
+    margin-left: 253px;
+    border: none;
+    padding: 8px 19px;
+}
+
