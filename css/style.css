@@ -64,3 +64,26 @@ li {
     padding: 8px 27px;
     
 }
+
+article {
+    padding: 200px 330px;
+}
+
+.article_head {
+    font-size: 48px;
+    margin-left: 185px;
+    margin-bottom: 62px;
+}
+
+.article_text_1 {
+    display: inline-block;
+    vertical-align: top;
+    width: 641px;
+    height: 120px;
+    margin-left: 32px;
+    margin-bottom: 20px;
+}
+
+.article_img {
+    vertical-align: top;
+}
